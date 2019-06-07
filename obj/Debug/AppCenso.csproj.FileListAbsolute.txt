@@ -1,0 +1,12 @@
+C:\Users\juan.bonilla\source\repos\AppCenso\bin\Debug\Censo.mdf
+C:\Users\juan.bonilla\source\repos\AppCenso\bin\Debug\Censo_log.ldf
+C:\Users\juan.bonilla\source\repos\AppCenso\bin\Debug\AppCenso.exe.config
+C:\Users\juan.bonilla\source\repos\AppCenso\bin\Debug\AppCenso.exe
+C:\Users\juan.bonilla\source\repos\AppCenso\bin\Debug\AppCenso.pdb
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.csprojAssemblyReference.cache
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.Properties.Resources.resources
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.csproj.GenerateResource.cache
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.csproj.CoreCompileInputs.cache
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.exe
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.pdb
+C:\Users\juan.bonilla\source\repos\AppCenso\obj\Debug\AppCenso.Form1.resources
